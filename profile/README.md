@@ -1,12 +1,31 @@
-## Hi there 👋
+# 🎮 ¡Bienvenidos a DLT Games!
 
+<p align="center">
+  <img src="profile/assets/header-banner.png" alt="Studio Banner" width="100%">
+</p>
+
+Somos un estudio independiente centrado en la creación de experiencias 2D de alta precisión y juegos impulsados por la comunidad.
+
+---
+
+### 🚀 Proyectos
+
+- 🗡️ **Revenant** — Metroidvania 2D de gran escala desarrollado en Unity.
+
+---
 <!--
+### 🛠️ Ecosistema de Modding & Comunidad
 
-**Here are some ideas to get you started:**
+¡Apoyamos activamente el contenido creado por los usuarios!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- 📦 **[Portal Oficial de Mods](https://github.com/nombre-del-estudio/studio-official-mods):** Descubre y descarga mods o publica los tuyos mediante Pull Requests[cite: 1].
+- 📖 **[Guía de Modding](https://github.com/nombre-del-estudio/studio-official-mods/blob/main/README.md):** Aprende cómo crear y subir tu mod a nuestro catálogo público[cite: 1].
+-->
+---
+<!--
+### 📬 Contacto y Redes
+
+- 🌐 **Web:** [tu-estudio.com](https://tu-estudio.com)
+- 💬 **Discord:** [Únete a nuestra comunidad](https://discord.gg/ejemplo)
+- 🐦 **X (Twitter):** [@TuEstudio](https://twitter.com)
 -->
